@@ -1,5 +1,7 @@
 ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ivanov&color=green)
 [![Telegram](https://img.shields.io/badge/Telegram-@IQUXAe)](https://t.me/IQUXAe)
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IQUXAe&layout=compact)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=IQUXAe&show_icons=true&theme=radical)
 <!--
