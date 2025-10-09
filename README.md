@@ -1,10 +1,10 @@
 ## Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=IQUXAe&color=green)
-[![Telegram](https://img.shields.io/badge/Telegram-@IQUXAe)](https://t.me/IQUXAe)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IQUXAe&layout=compact)
+
+<!--#![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IQUXAe&layout=compact)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=IQUXAe&show_icons=true&theme=radical)
-<!--
+
 **IQUXAe/IQUXAe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on QuikxChat (private yet)
+- 🌱 I’m currently learning С++
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-@IQUXAe)](https://t.me/IQUXAe)
