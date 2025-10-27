@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on QuikxChat (private yet)
 - 🌱 I’m currently learning С++
-📫 How to reach me: [![Matrix](https://img.shields.io/badge/Matrix-@iquxae:mozilla.org-0dbd8b)](https://matrix.to/#/@iquxae:mozilla.org)
+- 📫 How to reach me: [![Matrix](https://img.shields.io/badge/Matrix-@iquxae:mozilla.org-0dbd8b)](https://matrix.to/#/@iquxae:mozilla.org)
